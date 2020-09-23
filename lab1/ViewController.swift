@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  lab1
 //
-//  Created by Ivan Feofanov on 20.09.2020.
+//  Created by Yaroslav Fedoryachenko on 20.09.2020.
 //
 
 import UIKit

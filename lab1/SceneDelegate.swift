@@ -2,11 +2,12 @@
 //  SceneDelegate.swift
 //  lab1
 //
-//  Created by Ivan Feofanov on 20.09.2020.
+//  Created Yaroslav Fedoryachenko on 20.09.2020.
 //
 
 import UIKit
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
